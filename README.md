@@ -1,5 +1,10 @@
 # h-xord
 
+sha256
+f579b208a55f312d9a8eb0f94884bbe56bcc89c34728e131774ef459b0465a51  h-xord
+3db5eae9ef2e8595a9734f52c6d97d1788cafc27f0052168cab12ef5b8da1c2a  h-xord.py
+
+
 **An Intelligent XOR Cipher Decryption Tool**  
 _By Chairman Hellsing & Mun_
 
